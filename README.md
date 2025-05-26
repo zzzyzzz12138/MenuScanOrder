@@ -43,6 +43,6 @@ Staff can view incoming orders in real time through a dashboard, allowing for ef
 
 ---
 
-## 🖼️ QR Code 示例
+## 🖼️ 数据库表
 
 ![数据库表](数据库表.png)
