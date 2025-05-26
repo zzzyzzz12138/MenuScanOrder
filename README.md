@@ -42,3 +42,7 @@ Staff can view incoming orders in real time through a dashboard, allowing for ef
 - Event catering and pop-up restaurants needing dynamic table assignments
 
 ---
+
+## 🖼️ QR Code 示例
+
+![数据库表](数据库表.png)
